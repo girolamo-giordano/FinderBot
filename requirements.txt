@@ -1,0 +1,10 @@
+botbuilder-integration-aiohttp>=4.11.0
+botbuilder-core
+aiohttp
+botbuilder-dialogs
+botbuilder-azure
+botbuilder-ai
+botbuilder-dialogs
+botbuilder-schema
+wikipedia
+python-dotenv
